@@ -1,0 +1,6 @@
+query {
+    allLinks {
+        url
+        description
+    }
+}
